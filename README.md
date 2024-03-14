@@ -1,1 +1,1 @@
-# AI-Image-Classification
+# AI-Image-Sort
