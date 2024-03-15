@@ -1,2 +1,2 @@
 # AI-Image-Sort
-Sample Data: Tiny ImageNet(Stanford CS231N)
+Test Data: Tiny ImageNet(Stanford CS231N)
